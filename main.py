@@ -29,7 +29,6 @@ print(morseMessage)
 #for word in morseMessage:
   #list.append(word)
 listMorse = re.findall("[a-z]",morseMessage)
-print("pass")
 if len(listMorse) > 0:
   alpha = True
 else:
