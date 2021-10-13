@@ -1,4 +1,5 @@
 # MorseCodeTranslator
+# Click Main.py to see Code!
 
 #Copied from Devpost submission
 ## Inspiration
